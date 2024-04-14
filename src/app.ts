@@ -13,7 +13,7 @@ app.get("/", (req, res, next) => {
   res.json({ message: "Welcome to eLib" });
 });
 
-//Global error handler
+//Global error handler.
 app.use(globalErrorHandler);
 
 export default app;
