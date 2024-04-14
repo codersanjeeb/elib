@@ -12,4 +12,5 @@
 9.Created a config file for all the configuration.
 10.Install Mongoose and with type defination also.
 11.Install http-errors
-12.Install bcrypt for password hashing, with type defination
+12.Install bcrypt for password hashing, with type defination.
+13.Install jsonwebtoken for getting token, with type defination.
